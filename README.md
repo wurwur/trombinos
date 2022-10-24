@@ -1,6 +1,8 @@
 # Trombinos
 Création d'un trombinoscope sur base de reconnaissance faciale (Python)
 
+![Alt Text](https://media.giphy.com/media/h9Efa7gHeME4lgQYJF/giphy.gif)
+
 # Utilisation 
 
 ```sh
@@ -29,5 +31,4 @@ git clone https://github.com/wurwur/trombinos
 pip3 install requirements.txt
 ```
 
-![Alt Text](https://media.giphy.com/media/h9Efa7gHeME4lgQYJF/giphy.gif)
 
