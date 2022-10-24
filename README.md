@@ -28,3 +28,6 @@ python3 trombi.py [-h] [-i INPUT] [-p PATH] [-w WIDTH] [-l HEIGHT] [-o OUTPUT]
 git clone https://github.com/wurwur/trombinos
 pip3 install requirements.txt
 ```
+
+![Alt Text](https://media.giphy.com/media/h9Efa7gHeME4lgQYJF/giphy.gif)
+
