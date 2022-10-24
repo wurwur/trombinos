@@ -9,6 +9,7 @@ python3 trombi.py [-h] [-i INPUT] [-p PATH] [-w WIDTH] [-l HEIGHT] [-o OUTPUT]
 
 # Arguments 
 
+```
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
                         Fichier CSV d'input
@@ -19,6 +20,7 @@ python3 trombi.py [-h] [-i INPUT] [-p PATH] [-w WIDTH] [-l HEIGHT] [-o OUTPUT]
                         Hauteur maximale de chaque photographie
   -o OUTPUT, --output OUTPUT
                         Dossier de sortie des fichiers traités
+```
 
 # Installation
 
