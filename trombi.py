@@ -197,9 +197,6 @@ def newsize(size,dim):
 
 def facial_recognition(new_size,dim,file,i):
 	w,h = dim
-	print(w,h)
-	print(fr.load_image_file(file))
-	print(i,fr.face_locations(fr.load_image_file(file)))
 	top,right,bottom,left = [int(i*(new_size[0]/w)) for i in fr.face_locations(fr.load_image_file(file))[0]]
 	return left,top,right,bottom
 
